@@ -1,0 +1,3 @@
+C:/Users/İLKER/CLionProjects/Project09/cmake-build-debug/CMakeFiles/Project09.dir
+C:/Users/İLKER/CLionProjects/Project09/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/İLKER/CLionProjects/Project09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
